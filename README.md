@@ -1,3 +1,5 @@
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQEA77xlUCUSbA/profile-displaybackgroundimage-shrink_350_1400/0/1645088417485?e=1650499200&v=beta&t=ir9s5xMF-h2WgJHoP0Ief9Hw2xc_FTNagyRbjUd1Kfw" alt="CODING" width="2500" height="300">
+
 <h1 align="center">Hi 👋, I'm Sai Teja</h1>
 <h3 align="center">A passionate web developer and problem solver</h3>
 
