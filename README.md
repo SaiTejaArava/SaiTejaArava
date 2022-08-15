@@ -34,6 +34,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <img src="https://www.pngfind.com/pngs/m/511-5114946_mongodb-png-transparent-png.png" alt="mongodb" width="40" height="40"/>
+<img src="https://www.pngitem.com/pimgs/m/288-2880547_node-node-js-hd-png-download.png" width="40" height="40"/>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitejaarava&show_icons=true&locale=en&layout=compact" alt="saitejaarava" /></p>
